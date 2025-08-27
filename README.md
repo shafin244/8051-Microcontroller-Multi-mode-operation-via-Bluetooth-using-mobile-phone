@@ -1,8 +1,9 @@
 # 8051-Microcontroller-Multi-mode-operation-via-Bluetooth-using-mobile-phone
 Developed a Bluetooth-enabled multi-functional embedded system (8051) featuring LED/relay control, Morse code translation, ceaser cyper encryption, \&amp; arithmetic operations
-<img width="743" height="443" alt="image" src="https://github.com/user-attachments/assets/b36ff001-3a6e-414f-b7d4-ed828ecd8f2c" />
+<img width="743" height="443" alt="image" src="https://github.com/user-attachments/assets/435cab21-1b5f-4505-be1b-05f9fd073bc5" />
 
-<img width="743" height="443" alt="image" src="https://github.com/user-attachments/assets/540ac1d7-1bfb-4ff3-9a27-3ec6845a5739" />
+<img width="743" height="443" alt="image" src="https://github.com/user-attachments/assets/023a5cfe-9fff-474c-a45a-c7fb528f1d4e" />
+
 
 The primary objective of this project is to design and implement a robust Bluetooth-controlled 
 embedded system based on the 8051-microcontroller architecture that can perform multiple 
